@@ -4,11 +4,11 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 2 5
-Title ""
+Title "AfriCUBE Satellite"
 Date ""
-Rev ""
-Comp ""
-Comment1 ""
+Rev "Version 1.0"
+Comp "GigaTechnology / AMSATSA"
+Comment1 "Anton Janovsky  Shahn Pretorius"
 Comment2 ""
 Comment3 ""
 Comment4 ""
