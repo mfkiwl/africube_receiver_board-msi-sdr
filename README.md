@@ -1,3 +1,20 @@
-This Repository has the Africube SDR Recever Boards V1.0 and v2 <br>
-Project is compleet but boards has not been build yet 3 Feb 2021
-![12 bit SDR rx Board](Africube_rx_boards_1.png?raw=true "Arficube 12bit SDR RX board")<br>
+this is an Software Define Radio receiver PCB project base on msi2500 and msi001. use kicad to view it
+
+这是一个基于msi2500 和 msi001的软件无线电PCB工程项目， 使用kiCAD浏览此工程
+
+如果需要PCB打样，把gerber目录下的文件发给PCB加工厂即可
+
+Send gerbar files to PCB factory . you'd better to use SMT
+
+建议叫工厂SMT贴片，手动焊接容易太多bug
+
+软件使用SDRuno（选SDRPlay）
+
+software compatible with SDRplay
+
+使用效果
+
+![PCB](./pcb.jpg)
+
+
+![SDR](./usage.png)
